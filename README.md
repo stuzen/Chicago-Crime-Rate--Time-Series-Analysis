@@ -14,4 +14,4 @@ The second data source is the Illinois Department of Statistics. It has monthly 
 http://www.ides.illinois.gov/xxlmi/Pages/Local_Area_Unemployment_Statistics.aspx
 
 # Tools
-R, Python
+R, Python, Excel
